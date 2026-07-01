@@ -1,4 +1,4 @@
-# Análise de Vendas — E-commerce 2024
+# Análise de Vendas - E-commerce 2024
 
 Projeto de análise exploratória de dados de vendas desenvolvido em Python, com geração automática de indicadores de desempenho, visualizações e insights de negócio.
 
